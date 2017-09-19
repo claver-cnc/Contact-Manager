@@ -1,6 +1,5 @@
-# WELCOME TO MY WEBSITE README 
+# WELCOME TO MY CONTACT MANAGER FILE  
 
-###You will found here my contact app build with python
 Enjoy Python !!
 
 
